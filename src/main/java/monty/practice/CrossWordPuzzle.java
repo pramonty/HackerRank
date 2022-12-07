@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+//Unsolved
 public class CrossWordPuzzle {
 	public static void main(String[] args) throws IOException {
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

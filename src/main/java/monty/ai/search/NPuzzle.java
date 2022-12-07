@@ -10,6 +10,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Scanner;
 
+//Solved
 public class NPuzzle {
 	
 	static Map<String,PuzzleNode> stateSpace=new HashMap<String,PuzzleNode>();

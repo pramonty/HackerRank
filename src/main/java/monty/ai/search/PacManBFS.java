@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Queue;
 import java.util.Scanner;
 
-
+//Solved
 public class PacManBFS {
 	static int max_r = 0;
 	static int max_c = 0;

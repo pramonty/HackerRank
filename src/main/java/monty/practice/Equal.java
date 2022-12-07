@@ -11,6 +11,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
+//Unsolved
 public class Equal {
 	
 	public static void main(String[] args) throws IOException {

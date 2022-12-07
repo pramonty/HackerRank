@@ -11,7 +11,7 @@ import java.util.Set;
 import java.util.Stack;
 
 
-//This one passed all 3 test cases
+//Solved
 public class PacManDFSAnotherAttempt {
 	static int max_r=0;
 	static int max_c=0;

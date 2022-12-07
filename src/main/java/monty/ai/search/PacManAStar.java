@@ -15,6 +15,7 @@ import java.util.Stack;
 
 import monty.ai.search.PacManBFS.Node;
 
+//Solved
 public class PacManAStar {
 	static int max_r = 0;
 	static int max_c = 0;
